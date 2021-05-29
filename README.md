@@ -1,4 +1,4 @@
-# Stock Analysis
+# Stock Analysis using VBA
 ## Overview of Project
 The purpose of this analysis was to refactor the code in VBA to loop through stock data for year 2017 and 2018 and see if it worked more efficiently than the original code we had. By doing so, we will be able to analyze all the data and determine which stocks had a good or bad return rate.
 ## Results
